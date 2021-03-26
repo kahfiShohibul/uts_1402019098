@@ -29,7 +29,7 @@
 		<h1></h1>
 	</div>
 	<div class="berhome">
-		<h2><img src="img//wireframe_1402019098.png"></h2>
+		<h2><img src="wireframe_1402019098.png"></h2>
 <div class="isihome">
 		<h2><p>
 </div>
