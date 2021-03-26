@@ -4,7 +4,7 @@
 	<meta charset="=utd-8">
 	<meta name="viewport" contect="width=device-width, initial-scale=1">
 	<title>Data Covid-19</title>
-	<link rel="stylesheet" type="text/css" href="uts.css">
+	<link rel="stylesheet" type="text/css" href="utsweb.css">
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 </head>
 <body>
